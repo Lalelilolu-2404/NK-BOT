@@ -3,9 +3,12 @@
 clear
 apt-get update
 apt-get upgrade
-apt-get install nodejs -y
-apt-get install ffmpeg libwebp -y
+apt-get install nodejs -Y
+apt-get install libwebp -Y
+apt-get install ffmpeg -Y
 apt-get install wget -y
+apt-get install mc -Y 
+apt-get install nmap -Y
 apt-get install imagemagick -y
 apt-get install tesseract -y
 npm i node-tesseract-ocr
