@@ -22,7 +22,5 @@ npm i ffmpeg
 npm i cfonts
 npm i
 npm audit fix --force
-play audindex.mp3
-termimage datakawaii.png
 
 echo "no olvides tomar awita nwn"
